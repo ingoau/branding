@@ -1,0 +1,3 @@
+[submodule "branding-private"]
+	path = branding-private
+	url = git@gitlab.com:ingowolf/branding-private.git
